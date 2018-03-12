@@ -1,6 +1,15 @@
 <resources>
     <string name="app_name">Air Hockey</string>
-    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+    <string name="cat_hw_info">Hardware Information</string>
+    <string name="pref_hw_version">Version</string>
+    <string name="pref_hw_version_summary">default value is 1</string>
+
+    <string name="cat_sw_info">Software Information</string>
+    <string name="pref_sw_version">Version</string>
+    <string name="pref_sw_version_summary">default value is 1</string>
+
 
     <!-- Strings related to Settings -->
 
